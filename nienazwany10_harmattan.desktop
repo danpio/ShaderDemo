@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=nienazwany10
+Exec=/usr/bin/invoker --type=d -s /opt/nienazwany10/bin/nienazwany10
+Icon=/usr/share/icons/hicolor/80x80/apps/nienazwany1080.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
